@@ -1,4 +1,5 @@
 <div align="center">
+<img width="1810" height="1019" alt="QQ20250915-232019" src="https://github.com/user-attachments/assets/12065c06-6f32-4860-b438-fde9aa4a05b8" />
 
 # Simple Web Browser for ComfyUI
 </div>
