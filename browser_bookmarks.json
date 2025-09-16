@@ -1,0 +1,63 @@
+[
+    {
+        "categoryName": "AICG",
+        "bookmarks": [
+            {
+                "name": "Seaart",
+                "url": "https://www.seaart.ai"
+            },
+            {
+                "name": "klingai",
+                "url": "https://app.klingai.com/"
+            },
+            {
+                "name": "LIBLIB",
+                "url": "https://www.liblib.art/inspiration"
+            },
+            {
+                "name": "SDXL 1.0 Artistic Studies",
+                "url": "https://rikkar69.github.io/SDXL-artist-study/"
+            }
+        ]
+    },
+    {
+        "categoryName": "Video",
+        "bookmarks": [
+        ]
+    },
+    {
+        "categoryName": "Image",
+        "bookmarks": [
+            {
+                "name": "BingImages",
+                "url": "https://www.bing.com/inspire?FORM=IRPFED"
+            },
+            {
+                "name": "PNGDirs",
+                "url": "https://www.pngdirs.com"
+            },
+            {
+                "name": "PNGImg",
+                "url": "https://pngimg.com/"
+            }
+        ]
+    },
+    {
+        "categoryName": "Audio",
+        "bookmarks": []
+    },
+    {
+        "categoryName": "Text",
+        "bookmarks": [
+        ]
+    },
+    {
+        "categoryName": "Tools",
+        "bookmarks": [
+            {
+                "name": "Photopea",
+                "url": "https://www.photopea.com/"
+            }
+        ]
+    }
+]
